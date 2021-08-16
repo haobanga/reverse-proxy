@@ -12,5 +12,5 @@ optional arguments:
 
 $ python reverse_proxy.py -r https://httpbin.org
 
-Serving on ('127.0.0.1', 8080) -> http://httpbin.org
+Serving on ('127.0.0.1', 8080) -> https://httpbin.org
 ```
